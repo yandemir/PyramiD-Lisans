@@ -1,0 +1,2 @@
+# PyramiD-Lisans
+Lisans Dosyası
