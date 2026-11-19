@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="PrgVer.xsd" generated="2026-11-01T15:32:33">
+<PrgVer>
+<Prg>Cari</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+<PrgVer>
+<Prg>Deniz</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+<PrgVer>
+<Prg>Hava</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+<PrgVer>
+<Prg>Kara</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+<PrgVer>
+<Prg>Kargo</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+<PrgVer>
+<Prg>KontDepo</Prg>
+<Ver>3.2</Ver>
+</PrgVer>
+</dataroot>
